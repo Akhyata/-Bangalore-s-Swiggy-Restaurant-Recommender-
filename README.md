@@ -12,7 +12,7 @@
 
        - https://www.swiggy.com/restaurants/glens-bakehouse-lavelle-road-ashok-nagar-bangalore-17376
 - **Data Extraction**: Employed Selenium and Beautiful Soup to extract restaurant data from Swiggy's website in Bangalore.
-                       Here we exract the details like restaurant names, ratings, prices, cuisines, and more.
+                       Here we extract the details like restaurant names, ratings, prices, cuisines, and more.
 ![Screenshot 2023-10-26 225413](https://github.com/Akhyata/-Bangalore-s-Swiggy-Restaurant-Recommender-/assets/143725909/f882eb23-75d5-47d7-ab38-a1d179ffa204)
 ![image](https://github.com/Akhyata/-Bangalore-s-Swiggy-Restaurant-Recommender-/assets/143725909/769a1dc9-0105-4f1b-8184-6e026f7ddc5c)
 
